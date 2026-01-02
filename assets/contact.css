@@ -1,0 +1,24 @@
+body {
+      background-color: #f3eded; /* black-ish background */
+      color: #ccc; /* light grey text */
+    }
+    .form-container {
+      background-color: #a7a5a5; /* dark grey card */
+      border: 2px solid rgb(78, 4, 110); /* custom purple border */
+      padding: 30px;
+      border-radius: 10px;
+    }
+    .form-label {
+      color:black; /* light grey labels */
+    }
+    .form-heading {
+      color: black; /* custom accent color */
+      text-align: center;
+    }
+    .btn-warning {
+      background-color: #ffc107;
+      border: none;
+    }
+    .btn-warning:hover {
+      background-color: #e0a800;
+    }
